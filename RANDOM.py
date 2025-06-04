@@ -342,7 +342,7 @@ def InfoAcc(username, domain):
 ┃ 📝 𝐁𝐢𝐨        : {bio}
 ┃ 🔐 𝐑𝐞𝐬𝐭       : {rest(username)}
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯
-⚡ 𝗧𝗼𝗼𝗹 𝗕𝘆 : @Pyobscura & @rvmafia
+⚡ 𝗧𝗼𝗼𝗹 𝗕𝘆 : @Pyobscura @rvmafia
 """
     with open('hits.txt', 'a') as f:
         f.write(info_text + "\n")
