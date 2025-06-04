@@ -25,6 +25,7 @@ import requests
 import sys
 from rich.console import Console
 from rich.panel import Panel
+webbrowser.open("https://t.me/+DWB6gHsddg5hZTI1")
 
 console = Console()
 init(autoreset=True)
